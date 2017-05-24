@@ -1,0 +1,9 @@
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserServiceImpl.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/AppController.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/model/User.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/configuration/JpaConfiguration.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/SpringBootCRUDApp.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserService.java
+/media/toby/DATA/Project/App/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/repositories/UserRepository.java
